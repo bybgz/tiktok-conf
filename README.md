@@ -1,13 +1,19 @@
 # tiktok-conf
 
-# 特别说明：可全程手机端操作，无需PC端操作。
+
+
+## 特别说明：可全程手机端操作，无需PC端操作。
+
 
 
 ## 一、	准备：
 1.	先卸载手机已安装的TikTok，避免触发限制；
 2.	TikTok 21.1.0.ipa：需使用美区appleID账号登录iTunes下载从 iTunes for Windows V 12.6.5.3抓包历史版本TikTok 21.1.0.ipa（已将TikTok 21.1.0.ipa发布在悟空在线内侧分发系统平台，可在后续详细描述中扫码获取）；
-3.	shadowrocket；
-4.	代理节点
+    链接：https://pan.baidu.com/s/1egIA51QAa5Kp5gS5Rcuzng?pwd=937d 
+    提取码：937d
+4.	shadowrocket；
+5.	代理节点
+
 
 
 ## 二、	操作步骤：
@@ -22,6 +28,7 @@
 ######      美国：https://raw.githubusercontent.com/bybgz/tiktok-conf/master/shadowrocket/tiktok-us.conf
 ######   4)	添加规则：打开shadowrocket【配置】->【本地文件（当前使用的配置，如：default.conf）】->【最右边感叹号】->【规则】->【右上角加号】->类型选择【RULE-SET】->策略选择【PROXY】->域名【复制粘贴下面的规则配置链接】->【保存】：
 ######      https://raw.githubusercontent.com/bybgz/tiktok-conf/master/shadowrocket/tiktok.list
+
 
 
 2.	懒人法安装TikTok 21.1.0.ipa：
