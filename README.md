@@ -9,8 +9,8 @@
 ## 一、	准备：
 1. 先卸载手机已安装的TikTok，避免触发限制；
 2. TikTok 21.1.0.ipa：需使用美区appleID账号登录iTunes下载从 iTunes for Windows V 12.6.5.3抓包历史版本TikTok 21.1.0.ipa（已将TikTok 21.1.0.ipa发布在悟空在线内侧分发系统平台，可在后续详细描述中扫码获取）；
-    ###### 链接：https://pan.baidu.com/s/11h6SmuYSGl-P1oZISGJnIg
-    ###### 提取码：og0w
+    ###### 链接：[https://pan.baidu.com/s/11h6SmuYSGl-P1oZISGJnIg](https://pan.baidu.com/s/1ctrxeHitTbEg552IbBeW8w?pwd=psdi)
+    ###### 提取码：psdi
 4.	shadowrocket；
 5.	代理节点。
 
@@ -50,7 +50,7 @@
 
 ### 2.	懒人法安装TikTok 21.1.0.ipa：
 1) PC端：手机连接PC通过爱思助手【我的助手】->【应用游戏】->【导入安装】，可直接导入安装，无需签名验证； 
-2) 手机端：扫码访问悟空在线内侧分发系统平台，输入密码确认后进行下载安装，无需验证签名，或访问链接 https://wkzx.wang/suyV
+2) 手机端：扫码访问悟空在线内侧分发系统平台，输入密码171819确认后进行下载安装，无需验证签名，或访问链接 https://wkzx.wang/suyV
 
 ![preview](./qr_code.png)
 
